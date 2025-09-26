@@ -1,6 +1,6 @@
-# 📊 Dashboard de Vendas — Game Pass
+# 📊 Dashboard de Vendas — Game Pass XBOX
 
-Projeto desenvolvido como desafio do Bootcamp DIO com foco em análise de dados e visualização em dashboards utilizando Google Sheets (Tabelas Dinâmicas).
+Projeto desenvolvido como desafio do Bootcamp **Randstad - Análise de Dados** (DIO)  com foco em análise de dados e visualização em dashboards utilizando Google Sheets (Tabelas Dinâmicas).
 
 #
 
@@ -29,6 +29,8 @@ Transformar dados brutos em informações claras e úteis, permitindo responder 
 #
 ## 📷 Visual do Dashboard
 
+![Visual Dashboard](Arquivos/dashboard_vendasxbox_excel.JPG
+)
 
 ## 📈 Resultados
 
@@ -51,3 +53,12 @@ EA Play Seasons Pass: R$ 2.940,00
 Minecraft Seasons Pass: R$ 3.880,00
 
 📌 Insight: O Minecraft foi o campeão de faturamento em 2024 e deve ser priorizado em campanhas de retenção e expansão. O EA Play tem potencial de crescimento, podendo ser alavancado com promoções cruzadas e pacotes combinados.
+
+#
+
+✨ Este projeto foi muito enriquecedor para minha jornada de aprendizado. Ele mostrou como os recursos do Excel podem ser versáteis e poderosos na análise de dados. Construir um dashboard foi um desafio empolgante e resultou em insights estratégicos capazes de apoiar o crescimento do negócio. Além de ampliar minhas habilidades técnicas, reforçou minha motivação em seguir evoluindo na área de dados.
+
+---
+
+📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ariadinaanascimento/)  
+
