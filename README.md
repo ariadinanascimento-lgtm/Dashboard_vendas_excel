@@ -58,7 +58,7 @@ Minecraft Seasons Pass: R$ 3.880,00
 
 ✨ Este projeto foi muito enriquecedor para minha jornada de aprendizado. Ele mostrou como os recursos do Excel podem ser versáteis e poderosos na análise de dados. Construir um dashboard foi um desafio empolgante e resultou em insights estratégicos capazes de apoiar o crescimento do negócio. Além de ampliar minhas habilidades técnicas, reforçou minha motivação em seguir evoluindo na área de dados.
 
----
+#
 
-📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ariadinaanascimento/)  
+👩‍💻 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ariadinaanascimento/)  
 
