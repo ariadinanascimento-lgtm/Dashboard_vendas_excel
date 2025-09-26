@@ -29,7 +29,7 @@ Transformar dados brutos em informações claras e úteis, permitindo responder 
 #
 ## 📷 Visual do Dashboard
 
-![Visual Dashboard](Arquivos/dashboard_vendasxbox_excel.JPG
+![Visual Dashboard](Arquivos/dashboard_vendasxbox_excel.jpg
 )
 
 ## 📈 Resultados
