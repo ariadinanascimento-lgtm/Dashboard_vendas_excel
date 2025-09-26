@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas — Game Pass XBOX
+# 📊 🎮️ Dashboard de Vendas Game Pass XBOX
 
 Projeto desenvolvido como desafio do Bootcamp **Randstad - Análise de Dados** (DIO)  com foco em análise de dados e visualização em dashboards utilizando Google Sheets (Tabelas Dinâmicas).
 
